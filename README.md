@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanna Tikkakoski!
+- 👋 Hi, I’m Sanna Pöri-Tikkakoski!
 - 👀 I’m an ICT Engineering (BEng) student at Oulu University of Applied Sciences in Oulu, Finland.
 - 🌱 I’ve been learning C/C++, OOP, QT programming, relational databases (SQL) and HTTP protocols, and Javascript in school.
 - 🏦 Coming up this spring is a larger project where I'll be programming a mock ATM app!
