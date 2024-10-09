@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Sanna Pöri-Tikkakoski!
-- 👀 I’m an ICT Engineering (BEng) student who's just started her 2nd year at Oulu University of Applied Sciences in Oulu, Finland.
-- 🌱 Keywords in school during my first year were C/C++, Qt programming, OOP in general, relational databases (MySQL) and REST API.
-- 🤖 Coming up this academic year: Java, cloud services, web applications and mobile development.
+- 👋 Hi, I’m Sanna Tikkakoski!
+- 👀 I’m an ICT Engineering (B.Eng) student who's in her 2nd year at Oulu University of Applied Sciences in Oulu, Finland.
+- 🗝️ Key things in school so far have been Object-Oriented Programming, project work (including documentation!), Java, C/C++, web apps, cloud services, relational databases, and RESTful APIs.
+- 🤖 Coming up later this academic year: a larger web app project, mobile development theory, and a larger mobile app project.
 - 🏦 My favorite project in school so far has been making an ATM simulator app (Node.js backend, Qt frontend)!
-- 💞️ I’m looking forward to learning new things about programming and getting my career started.
+- 💞️ I'm especially interested in all things UX, because that's what initially sparked my passion for the IT field.
 - 📫 Reach me at sanna-poritikkakoski on LinkedIn!
 
 <!---
