@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Sanna Tikkakoski!
-- 👀 I’m an ICT Engineering (B.Eng) student who's in her 2nd year at Oulu University of Applied Sciences in Oulu, Finland.
-- 🗝️ Key things in school so far have been Object-Oriented Programming, project work (including documentation!), version control, Java, C/C++, web apps, cloud services, relational databases, and RESTful APIs.
-- 🤖 Coming up later this academic year: a larger web app project, mobile development theory, and a larger mobile app project.
-- 🏦 My favorite project in school so far has been making an ATM simulator app (Node.js backend, Qt frontend)!
-- 💞️ I'm especially interested in all things UX, because that's what initially sparked my passion for the IT field.
+- 👀 I’m an ICT Engineering (Software Development major) student who's in her 2nd year at Oulu University of Applied Sciences in Oulu, Finland.
+- 🗝️ Some key things in school so far have been Object-Oriented Programming, relational databases and RESTful APIs, Java, C/C++, React, and cloud services.
+- 🏢 Present in each semester has been a deep focus on realistic project work, including documentation and version control!
+- 🤖 Coming up later this academic year: wrapping up a larger web app project, some mobile development theory, and a larger mobile app project.
+- 🏦 My favorite project in school so far has been making a web app for movie enthusiasts using React+Node!
+- 💞️ I'm especially interested in UX, because that's what initially sparked my passion for the IT field, and testing, because I'm a little neurotic.
 - 📫 Reach me at sanna-poritikkakoski on LinkedIn!
 
 <!---
