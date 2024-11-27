@@ -5,6 +5,7 @@
 - 🤖 Coming up later this academic year: wrapping up a larger web app project, some mobile development theory, and a larger mobile app project.
 - 🏦 My favorite project in school so far has been making a web app for movie enthusiasts using React+Node!
 - 💞️ I'm especially interested in UX, because that's what initially sparked my passion for the IT field, and testing, because I'm a little neurotic.
+- 🫣 My secret dream is to work as a project manager or product owner! Give me a calendar, project plans, and a backlog, and I'm a very happy camper.
 - 📫 Reach me at sanna-poritikkakoski on LinkedIn!
 
 <!---
